@@ -6,7 +6,7 @@ You asked for an online demo. I would like to provide our developed online demo 
 
 ## Case for Reviewer Ukyf
 
-The two cases we mentioned are under `Case_UNet`.
+GitAgent is inherently designed to search for open-domain repositories on GitHub without any constraints to a predefined set of repositories. And the evaluation of GitAgent's capabilities is not confined to the 21 repositories within GitBench. The two cases of `U-Net` we mentioned are under `Case_UNet`.
 
 ## Other file
 
